@@ -1,2 +1,2 @@
-# Food-delivery-app-flowchart
-Flow chart about the Food Delivery App
+# Food-delivery-app
+About Food Delivery APP
